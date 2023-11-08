@@ -1,0 +1,3 @@
+1 mongodb+srv://ap96946116:*****@cluster0.ksu66oy.mongodb.net/?retryWrites=true&w=majority
+
+2 mongodb+srv://agb123:*****@cluster-agb.gkk9qc6.mongodb.net/inventory_app_?retryWrites=true&w=majority
